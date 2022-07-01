@@ -1,0 +1,321 @@
+.mediaViewInfo {
+	--web-view-name: Selección pago;
+	--web-view-id: Seleccin_pago;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Seleccin_pago;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Seleccin_pago {
+	position: absolute;
+	width: 428px;
+	height: 962px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Selección pago;
+	--web-view-id: Seleccin_pago;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Imagen_4 {
+	position: absolute;
+	width: 428px;
+	height: 240px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_13 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#NoPath {
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 376px;
+	top: 14px;
+	overflow: visible;
+}
+#n_7000 {
+	left: 158px;
+	top: 113px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Estado_Activa {
+	left: 171px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 344px;
+	height: 100px;
+	left: 44px;
+	top: 495px;
+}
+#Saldo_al_DDMMYY {
+	left: 146px;
+	top: 157px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 344px;
+	height: 116px;
+	left: 44px;
+	top: 318px;
+}
+#Rectngulo_12 {
+	fill: rgba(40,41,94,1);
+}
+.Rectngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 85px;
+	left: 0px;
+	top: 879px;
+}
+#Nuestras_redes {
+	left: 321px;
+	top: 898px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#icons8_Instagram_52px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 365px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_facebook_f_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 344px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_twitter_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 323px;
+	top: 918px;
+	overflow: visible;
+}
+#Trminos_y_Condiciones {
+	left: 44px;
+	top: 895px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#Copyright_2020_Sodexo_Todos_lo {
+	opacity: 0.25;
+	left: 44px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 8px;
+	color: rgba(255,255,255,1);
+}
+#Imagen_16 {
+	position: absolute;
+	width: 152px;
+	height: 57px;
+	left: 13px;
+	top: 5px;
+	overflow: visible;
+}
+#icons8_cellular_network_60px {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 300px;
+	top: 341px;
+	overflow: visible;
+}
+#Clave_Dinamica {
+	left: 69px;
+	top: 510px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contraseña.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#icons8_mobile_payment_64px {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 298px;
+	top: 512px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contraseña.html;
+	cursor: pointer;
+}
+#Pago_Online {
+	left: 69px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Elije_el_comercio_y_paga_desde {
+	left: 69px;
+	top: 371px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(118,118,118,1);
+}
+#Genera_tu_cdigo_de_pago_y_must {
+	left: 69px;
+	top: 543px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contraseña.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(118,118,118,1);
+}
+#icons8_customer_64px {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 360px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Menu.html;
+	cursor: pointer;
+}

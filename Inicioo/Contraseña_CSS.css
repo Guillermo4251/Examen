@@ -1,0 +1,472 @@
+.mediaViewInfo {
+	--web-view-name: Contraseña;
+	--web-view-id: Contrasea;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Contrasea;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Contrasea {
+	position: absolute;
+	width: 428px;
+	height: 962px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Contraseña;
+	--web-view-id: Contrasea;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Imagen_4 {
+	position: absolute;
+	width: 428px;
+	height: 240px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_13 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 488px;
+	height: 93px;
+	left: -22px;
+	top: -16px;
+}
+#n_7000 {
+	left: 158px;
+	top: 113px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Estado_Activa {
+	left: 171px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Saldo_al_DDMMYY {
+	left: 146px;
+	top: 157px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_17 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 344px;
+	height: 588px;
+	left: 44px;
+	top: 265px;
+}
+#Rectngulo_12 {
+	fill: rgba(40,41,94,1);
+}
+.Rectngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 85px;
+	left: 0px;
+	top: 879px;
+}
+#Nuestras_redes {
+	left: 321px;
+	top: 898px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#icons8_Instagram_52px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 365px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_facebook_f_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 344px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_twitter_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 323px;
+	top: 918px;
+	overflow: visible;
+}
+#Trminos_y_Condiciones {
+	left: 44px;
+	top: 895px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#Copyright_2020_Sodexo_Todos_lo {
+	opacity: 0.25;
+	left: 44px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 8px;
+	color: rgba(255,255,255,1);
+}
+#Imagen_16 {
+	position: absolute;
+	width: 152px;
+	height: 57px;
+	left: 13px;
+	top: 5px;
+	overflow: visible;
+}
+#icons8_mobile_payment_64px {
+	position: absolute;
+	width: 89px;
+	height: 89px;
+	left: 170px;
+	top: 318px;
+	overflow: visible;
+}
+#Clave_Dinamica {
+	left: 130px;
+	top: 282px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Genera_tu_cdigo_de_pago_y_must {
+	left: 112px;
+	top: 412px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(118,118,118,1);
+}
+#Elipse_1 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 129px;
+	top: 484px;
+}
+#Elipse_2 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 209px;
+	top: 484px;
+}
+#Elipse_3 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 289px;
+	top: 484px;
+}
+#Elipse_10 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 129px;
+	top: 564px;
+}
+#Elipse_11 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 209px;
+	top: 564px;
+}
+#Elipse_12 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 289px;
+	top: 564px;
+}
+#Elipse_13 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 129px;
+	top: 644px;
+}
+#Elipse_14 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 209px;
+	top: 644px;
+}
+#Elipse_15 {
+	fill: rgba(118,118,118,1);
+}
+.Elipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 289px;
+	top: 644px;
+}
+#Rectngulo_14 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_14 {
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	height: 39px;
+	left: 69px;
+	top: 724px;
+}
+#Rectngulo_15 {
+	fill: rgba(39,56,149,1);
+}
+.Rectngulo_15 {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 38px;
+	left: 229px;
+	top: 724px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pago.html;
+	cursor: pointer;
+}
+#Confirmar_bf {
+	left: 261px;
+	top: 733px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pago.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Confirmar_bd {
+	left: 95px;
+	top: 733px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_18 {
+	fill: rgba(230,54,49,1);
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 38px;
+	left: 154px;
+	top: 786px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+}
+#Confirmar_bf {
+	left: 261px;
+	top: 733px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pago.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Volver {
+	left: 193px;
+	top: 795px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Huella_Digital {
+	left: 90px;
+	top: 733px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(118,118,118,1);
+}
+#icons8_customer_64px {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 361px;
+	top: 11px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Menu.html;
+	cursor: pointer;
+}

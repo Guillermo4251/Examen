@@ -1,0 +1,922 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 12 Pro Max – 1;
+	--web-view-id: iPhone_12_Pro_Max__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_12_Pro_Max__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_12_Pro_Max__1 {
+	
+	position: absolute;
+	width: 428px;
+	height: 962px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 12 Pro Max – 1;
+	--web-view-id: iPhone_12_Pro_Max__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Imagen_5_bd {
+	position: absolute;
+	width: 173px;
+	height: 173px;
+	left: 0px;
+	top: -47px;
+	overflow: visible;
+}
+#Imagen_4_be {
+	position: absolute;
+	width: 441px;
+	height: 248px;
+	left: 0px;
+	top: 77px;
+	overflow: visible;
+}
+#Imagen_6_bf {
+	position: absolute;
+	width: 89px;
+	height: 81px;
+	left: 320px;
+	top: 77px;
+	overflow: visible;
+}
+#Imagen_7_bg {
+	position: absolute;
+	width: 89px;
+	height: 28px;
+	left: 320px;
+	top: 313px;
+	overflow: visible;
+}
+#Rectngulo_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 26px;
+	left: 0px;
+	top: 324px;
+}
+#JUNAEB_bi {
+	left: 69px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Saldo_al_DDMMYY_bj {
+	left: 69px;
+	top: 142px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#n_7000_bk {
+	left: 69px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Estado_____Activa_bl {
+	left: 69px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 355px;
+}
+#Rectngulo_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 487px;
+}
+#Rectngulo_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 619px;
+}
+#Rectngulo_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 751px;
+}
+#Imagen_11_bq {
+	position: absolute;
+	width: 104px;
+	height: 66px;
+	left: 275px;
+	top: 371px;
+	overflow: visible;
+}
+#Imagen_12_br {
+	position: absolute;
+	width: 90px;
+	height: 67px;
+	left: 276px;
+	top: 514px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+}
+#Imagen_14_bs {
+	position: absolute;
+	width: 115px;
+	height: 74px;
+	left: 264px;
+	top: 629px;
+	overflow: visible;
+}
+#Imagen_15_bt {
+	position: absolute;
+	width: 122px;
+	height: 71px;
+	left: 259px;
+	top: 764px;
+	overflow: visible;
+}
+#Saldo_bu {
+	left: 59px;
+	top: 369px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Pago_bv {
+	left: 59px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Comercios_bw {
+	left: 59px;
+	top: 629px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Promociones_bx {
+	left: 59px;
+	top: 758px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_by {
+	left: 59px;
+	top: 398px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bz {
+	left: 59px;
+	top: 529px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_b {
+	left: 59px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ca {
+	left: 59px;
+	top: 791px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lnea_1 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 374.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_3 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_3 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 506px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_6 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_6 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 638px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_8 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_8 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 770px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Imagen_5_bd {
+	position: absolute;
+	width: 173px;
+	height: 173px;
+	left: 0px;
+	top: -47px;
+	overflow: visible;
+}
+#Imagen_4_be {
+	position: absolute;
+	width: 441px;
+	height: 248px;
+	left: 0px;
+	top: 77px;
+	overflow: visible;
+}
+#Imagen_6_bf {
+	position: absolute;
+	width: 89px;
+	height: 81px;
+	left: 320px;
+	top: 77px;
+	overflow: visible;
+}
+#Imagen_7_bg {
+	position: absolute;
+	width: 89px;
+	height: 28px;
+	left: 320px;
+	top: 313px;
+	overflow: visible;
+}
+#Rectngulo_7 {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 26px;
+	left: 0px;
+	top: 324px;
+}
+#JUNAEB_bi {
+	left: 69px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Saldo_al_DDMMYY_bj {
+	left: 69px;
+	top: 142px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#n_7000_bk {
+	left: 69px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Estado_____Activa_bl {
+	left: 69px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 355px;
+}
+#Rectngulo_9 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 487px;
+}
+#Rectngulo_10 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 619px;
+}
+#Rectngulo_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 97px;
+	left: 44px;
+	top: 751px;
+}
+#Imagen_11_bq {
+	position: absolute;
+	width: 104px;
+	height: 66px;
+	left: 275px;
+	top: 371px;
+	overflow: visible;
+}
+#Imagen_12_br {
+	position: absolute;
+	width: 90px;
+	height: 67px;
+	left: 276px;
+	top: 514px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+}
+#Imagen_14_bs {
+	position: absolute;
+	width: 115px;
+	height: 74px;
+	left: 264px;
+	top: 629px;
+	overflow: visible;
+}
+#Imagen_15_bt {
+	position: absolute;
+	width: 122px;
+	height: 71px;
+	left: 259px;
+	top: 764px;
+	overflow: visible;
+}
+#Saldo_bu {
+	left: 59px;
+	top: 369px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Pago_bv {
+	left: 59px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+
+#Pago_bv>a{
+	text-decoration: none;
+	color: rgba(118,118,118,1);
+}
+#Comercios_bw {
+	left: 59px;
+	top: 629px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Promociones_bx {
+	left: 59px;
+	top: 758px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_by {
+	left: 59px;
+	top: 398px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bz {
+	left: 59px;
+	top: 529px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: S_pago.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_b {
+	left: 59px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ca {
+	left: 59px;
+	top: 791px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Emoji;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(118,118,118,1);
+}
+#Lnea_9 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_9 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 374.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_10 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_10 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 506px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_11 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_11 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 638px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_12 {
+	fill: transparent;
+	stroke: rgba(167,166,166,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_12 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 61px;
+	left: 269.5px;
+	top: 770px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_12 {
+	fill: rgba(40,41,94,1);
+}
+.Rectngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 428px;
+	height: 85px;
+	left: 0px;
+	top: 879px;
+}
+#Nuestras_redes {
+	left: 321px;
+	top: 898px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#icons8_Instagram_52px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 365px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_facebook_f_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 344px;
+	top: 918px;
+	overflow: visible;
+}
+#icons8_twitter_60px {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 323px;
+	top: 918px;
+	overflow: visible;
+}
+#Trminos_y_Condiciones {
+	left: 44px;
+	top: 895px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#Copyright_2020_Sodexo_Todos_lo {
+	opacity: 0.25;
+	left: 44px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 8px;
+	color: rgba(255,255,255,1);
+}
+#icons8_customer_64px {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 366px;
+	top: 15px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Menu.html;
+	cursor: pointer;
+}
